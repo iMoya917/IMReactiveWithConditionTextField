@@ -22,7 +22,7 @@ This fantastic view changes its color gradually makes your app look fantastic!
   #s.source_files = 'IMReactiveTextField/Classes/**/*'
  # 8
   #s.source_files = "IMReactiveTextField/**/*.{swift}"
-  s.source_files = 'IMReactiveWithConditionTextField/Classes/**/*'
-
+  #s.source_files = 'IMReactiveWithConditionTextField/Classes/**/*'
+  s.source_files = "IMReactiveWithConditionTextField/Classes/**/*.{swift}"
 
 end
